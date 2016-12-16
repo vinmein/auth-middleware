@@ -1,0 +1,24 @@
+{
+  "name": "auth-middleware",
+  "version": "0.0.0",
+  "description": "Authentication middleware and accesories for Singapore Lab microservices",
+  "homepage": "",
+  "author": {
+    "name": "dinesh",
+    "email": "dinesh.drad@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    ""
+  ],
+  "repository": "/auth-middleware",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express-jwt": "^5.1.0",
+    "lodash": "^4.17.2"
+  }
+}
