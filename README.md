@@ -9,7 +9,7 @@ $ npm install git+http://github.com/vinmein/auth-middleware.git --save
 ```
 or update dependencies section of package.json with :
 ```sh
-"sg-lab-auth-support": "git+http://github.com/vinmein/auth-middleware.git"
+"auth-middleware": "git+http://github.com/vinmein/auth-middleware.git"
 
 ```
 then run 
